@@ -1,0 +1,23 @@
+@media (max-width:1200px) {
+    .container {
+        background-color: black;
+    }
+}
+
+@media (max-width:992px) {
+    .container {
+        background-color: blue;
+    }
+}
+
+@media (max-width:786px) {
+    .container {
+        background-color: brown;
+    }
+}
+
+@media (max-width:576px) {
+    .container {
+        background-color: chartreuse;
+    }
+}
